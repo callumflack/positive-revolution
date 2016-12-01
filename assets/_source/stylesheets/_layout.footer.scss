@@ -1,0 +1,35 @@
+
+
+// --------------------------------------------------------------------------
+// FOOTER LAYOUT
+// --------------------------------------------------------------------------
+
+
+.c-footer {
+    margin: -$space 0 $space 0;
+    padding-top: $space * 2.5;
+
+    li,
+    p,
+    a {
+        @include TextSans();
+        color: $color-grey;
+        text-align: center;
+
+        span {
+            font-family: $sans-bold;
+        }
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+
+    a {
+        @include u-link();
+    }
+
+    li:not(:last-child) {
+        margin-right: $space * 0.3;
+    }
+}

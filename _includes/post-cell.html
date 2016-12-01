@@ -1,0 +1,18 @@
+{% comment %}
+    {% if page.url contains page.slug %} u-hide{% endif%}
+{% endcomment %}
+
+<a class="c-postCell" href="{{ post.url }}">
+    <div class="FlexEmbed">
+        <div class="FlexEmbed-ratio FlexEmbed-ratio--16by9"></div>
+        <div
+            class="FlexEmbed-content c-postCell-image"
+            style="background-image: url('{{ post.image }}')">
+        </div>
+    </div>
+    <div class="o-column u-marginT">
+        <h1 class="c-postCell-headline">{{ post.title }}</h1>
+        <date class="c-postCell-subheadline">{{ post.date | date: "%A %d %B, %Y" }}</date>
+        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <span class="u-textGreyLite">Read more<i class="Arrow-right"></i></span></p>
+    </div>
+</a>

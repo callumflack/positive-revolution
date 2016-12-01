@@ -1,0 +1,130 @@
+---
+layout: default
+---
+
+{% for section in page.sections %}
+    <div class="Section">
+        <div class="o-container{% if section.wide %} o-container--{{ section.wide }}{% endif %}">
+
+            {% case section.handle %}
+                {% when 'video' %}
+                    <div class="FlexEmbed">
+                        <div class="FlexEmbed-ratio FlexEmbed-ratio--16by9"></div>
+                        <iframe
+                            {% if jekyll.environment == "production" %}
+                                src="https://www.youtube.com/embed/{{ section.video }}"
+                            {% endif %}
+                            frameborder="0"
+                            allowfullscreen="allowfullscreen"
+                            class="FlexEmbed-content">
+                        </iframe>
+                    </div>
+
+                {% when 'intro' %}
+                    <h1 class="Header-tagline">{{ section.title }}</h1>
+                    {{ section.copy | markdownify }}
+                    {% include typeform-button.html %}
+                    <p class="u-textSans u-size8of12 u-sm-size5of12 Grid-cell--center">{{ section.cta-alt }}</p>
+                    <div class="HzLine"></div>
+
+                {% when 'blog' %}
+
+
+                {% when 'culture' %}
+                    <h1>{{ section.title }}</h1>
+                    <p class="u-textLgEmB u-textCenter u-marginB">{{ section.subtitle }}</p>
+                    {{ section.copy1 | markdownify }}
+                    <figure class="Figure u-textCenter">
+                        <img src="{{ site.assetsurl }}icon-culture.jpg" alt="Company culture is important" style="width:240px">
+                    </figure>
+                    {{ section.copy2 | markdownify }}
+                    {% include typeform-button.html %}
+                    <div class="HzLine"></div>
+
+                {% when 'testimonials' %}
+                    <h1>{{ section.title }}</h1>
+                    <figure class="Figure Container--textColumn">
+                        {% include section-video.html %}
+                    </figure>
+                    <p class="u-textLgB u-textGreyLite">
+                        {{ section.copy }}
+                    </p>
+                    <p class="u-textSmEm u-textGreyLite u-textCenter">
+                        {{ section.author }}
+                    </p>
+                    <a href="{{ section.cta-link }}" class="TestimonialLink">
+                        <div class="Media u-marginT u-xs-marginTD2 u-marginBD3">
+                            <img src="{{ site.assetsurl }}icon-linkedin.svg" alt="LinkedIn" class="Media-figure img-icon">
+                            <div class="Media-body">{{ section.cta }}<i class="Arrow-right"></i></div>
+                        </div>
+                    </a>
+                    <div class="HzLine"></div>
+
+                {% when 'blog-newsletter' %}
+                    <h2 class="u-marginB">{{ section.cta }}</h2>
+                    <!-- <p class="u-textSans Grid-cell--center u-marginB">{{ section.cta | markdown }} <i class="Arrow-right"></i></p> -->
+                    {% for post in site.posts limit: 1 %}
+                        <a class="BlogPost FlexEmbed" href="{{ post.url }}">
+                            <div class="FlexEmbed-ratio sm-FlexEmbed-ratio--2by1"></div>
+                            <div class="FlexEmbed-content o-coverImage o-imageBlend"
+                                style="background-image: url('{{ post.image }}')">
+                                <div class="o-aligner">
+                                    <div class="o-aligner-item">
+                                        <div class="c-post-hgroup">
+                                            <h1 class="u-marginBD3">{{ post.title }}</h1>
+                                            <p class="u-textCenter">Published on {{ post.date | date: "%B %d, %Y" }}</p>
+                                            <p class="u-textSans u-textCenter"><span>Read this article<i class="Arrow-right"></i></span></p>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    {% endfor %}
+
+                    <div class="NewsletterForm">
+                        <figure class="Figure">
+                            <img src="{{ site.assetsurl }}icon-newsletter.png" alt="Learn more. Signup to our newsletter and get a free ebook.">
+                        </figure>
+                        <h2 class="u-marginBD2">Learn more.<br><span>Signup to our newsletter and get a free ebook.</span></h2>
+                        <p class="u-textCenter">Signup to the our newsletter and receive a free copy of our eBook <span class="u-textRgEm">Seven Essential Keys to Becoming an Awe-inspiring Leader</span>.</p>
+                        {% include newsletter-signup-form.html %}
+                        <p class="u-textSansSm u-textGreyLite u-textCenter">We respect your privacy. Your details will never be shared with a third party.</p>
+                    </div>
+
+                {% when 'about' %}
+                    <h1 class="u-marginB0">{{ section.title }}</h1>
+                    <p class="u-textLgEmB u-textCenter u-marginB">{{ section.subtitle }}</p>
+                    <div class="Grid Grid--withGutter">
+                        <div class="Grid-cell Grid-cell--center u-size10of12 u-sm-size5of12">
+                            <figure class="Figure u-marginTD3 u-marginBD2">
+                                <img src="{{ site.assetsurl }}greg-smedts.jpg" alt="Positive Revolution is Greg Smedts">
+                            </figure>
+                            <p class="u-textSans u-textLeft u-marginB u-xs-marginBD2">
+                                <span class="u-textSansB">Contact Greg</span><br>
+                                Call <a href="tel:{{ site.phone }}">{{ site.phone }}</a><br>Email <a href="mailto=greg@positiverevolution.com.au" target="_blank">{{ site.email }}</a><br>
+                                Connect on <a href="{{ site.social[0] }}">LinkedIn</a>
+                            </p>
+                            <p>
+                                <a class="Button Button--sm u-marginBD2" href="mailgreg@positiverevolution.com.au" target="_blank">Book a speaking engagement</a>
+                            </p>
+                            <figure class="Figure Figure--sm u-sm-size7of12 u-marginNTD3 u-textCenter">
+                                <img src="{{ site.assetsurl }}badge-ABNLP.jpg" alt="Certified member of the Australian Board of Neuro-Linguistic Programming" class="u-inlineBlock">
+                                <img src="{{ site.assetsurl }}badge-IICS.png" alt="Certified coach for Instant Insight Communication Systems" class="u-inlineBlock">
+                            </figure>
+                        </div>
+
+                        <div class="Grid-cell u-sm-size7of12">
+                            <div class="mxs-HzLine"></div>
+                            <div class="u-textSmBlock">
+                                {{ section.copy | markdownify }}
+                            </div>
+                        </div>
+
+                    </div>
+
+            {% endcase %}
+
+        </div>
+    </div>
+{% endfor %}

@@ -1,0 +1,84 @@
+
+
+// --------------------------------------------------------------------------
+//   CONTAINER OBJECT
+// --------------------------------------------------------------------------
+
+
+@mixin container(
+	$width: md
+) {
+	@include clearfix();
+	height: inherit;
+	margin: 0 auto;
+	max-width: container-width($width);
+	padding: 0 space(1);
+	position: relative;
+
+	p,
+	li,
+	ol {
+		&:last-child,
+		&:last-child a {
+			margin-bottom: 0;
+		}
+	}
+
+	@include media-breakpoint-up(sm) {
+		padding: 0 space(1.5);
+	}
+}
+
+.o-container {
+	@include container();
+
+	//@include media-breakpoint-up(lg) { max-width: container-width(lg); }
+
+    // sizes
+
+	&--md {
+		@include container(md);
+	}
+
+	&--lg {
+		@include container(lg);
+	}
+
+	&--xl {
+		@include container(xl);
+	}
+
+    &--super {
+        //@include container(su);
+		max-width: 100%;
+		padding: 0 space(1.5);
+
+        @include media-breakpoint-up(sm) {
+            padding: 0 space(4);
+        }
+	}
+
+	&--postInfo {
+		@include container(xl);
+
+		//padding: 0;
+		@include media-breakpoint-up(xs) { padding: 0 !important; }
+		@include media-breakpoint-up(lg) { padding: 0 space(1.5); }
+	}
+}
+
+
+// for columns of text within a container
+
+.o-column {
+	@include clearfix();
+	height: inherit;
+    margin: 0 auto;
+	max-width: container-width(md);
+
+    @include media-breakpoint-up(sm) {
+    }
+
+	// @include when-inside(".o-container")     { margin-left: 0; }
+	// @include when-inside(".o-container--xl") { margin-left: calc( (1200-960) / 2 ); }
+}

@@ -1,0 +1,19 @@
+{% for item in site.data.navigation.header %}
+    <div class="c-nav-item
+        {% if page.url == '/' and page.url contains item.url %}is-active
+        {% elsif item.title != 'About' and page.url contains item.url %}is-active
+        {% endif %}">
+
+        <a href="{{ item.url }}">{{ item.title }}</a>
+
+        {% comment %}
+        <br>
+        {{ page.url }}<br>
+        {{ item.url }}<br>
+        {{ item.categories }}<br>
+        {{ page.categories }}
+        {% elsif page.url == '/blog/' and item.title == item.url %}is-active
+        {% endcomment %}
+
+    </div>
+{% endfor %}

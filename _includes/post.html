@@ -1,0 +1,34 @@
+<article class="Post">
+
+    <div class="o-container o-container--xl">
+        <div class="BlogPost FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--16by9"></div>
+            <div class="FlexEmbed-content o-coverImage "
+                style="background-image: url('{{ post.image }}')">
+                <div class="o-aligner">
+                    <div class="o-aligner-item">
+                        <div class="c-post-hgroup">
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="o-container u-marginTX2">
+        <h1 class="u-textLeft u-marginBD3">{{ post.title }}</h1>
+        <date class="c-postCell-subheadline">{{ post.date | date: "%A %d %B, %Y" }}</date>
+        <div class="Post-content u-marginTX2">
+            {{ post.content }}
+        </div>
+        <div class="Post-meta">
+            <date>{{ post.date | date: "%B %d" }}, {{ post.date | date: "%Y" }}</date>
+            <span>•</span>
+            Filed under:
+            {% include tags.html %}
+        </div>
+    </div>
+
+</article>

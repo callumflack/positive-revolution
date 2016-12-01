@@ -1,0 +1,52 @@
+
+
+// --------------------------------------------------------------------------
+//   NAV LAYOUT
+// --------------------------------------------------------------------------
+
+
+.c-nav {
+    //padding-bottom: $space;
+    text-align: center;
+}
+
+.c-nav-item {
+    @include TextSans();
+	@include remFallback($sizeTextSm);
+    display: inline-block;
+    margin-bottom: $space * 0.25;
+
+    @include media-breakpoint-up(sm) {
+        margin-bottom: $space * 0.75;
+    }
+
+    > a {
+        @include u-link(none);
+    }
+
+    &.is-active a {
+        border-bottom: 1px solid currentColor;
+    }
+
+    &:not(:first-child):before {
+        content: "|";
+        margin: 0 $space * 0.25;
+        opacity: 0.4;
+    }
+}
+
+
+// footer var
+.c-footer {
+    .c-nav {
+        margin: ($space * 0.25) 0 ($space * 0.4);
+    }
+
+    .c-nav-item {
+        margin-bottom: 0;
+    }
+
+    .c-nav-item a {
+        @include u-link(none);
+    }
+}

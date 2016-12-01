@@ -1,0 +1,54 @@
+
+
+// --------------------------------------------------------------------------
+// HEADER LAYOUT
+// --------------------------------------------------------------------------
+
+
+.c-header {
+    background-color: $color-bg-neutral;
+    padding: $space * 1.25 0 $space;
+    position: relative;
+    z-index: 1;
+
+    &:after {
+        background-color: $color-bg-neutral;
+        bottom: 0;
+        content: "";
+        display: block;
+        //height: 50%;
+        left: 0;
+        //padding-bottom: 56.25%;
+        padding-bottom: 41vh;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: -1;
+    }
+}
+
+.c-header-logo {
+    //margin-bottom: 0;
+    padding-bottom: $space * 0.5;
+    text-align: center;
+
+    @include media-breakpoint-up(sm) {
+        padding-bottom: $space;
+    }
+
+    a {
+        @include u-link(none);
+    }
+
+    img {
+        height: 75px;
+        @include respond-to(sm) { height: 90px; }
+    }
+}
+
+.c-header-tagline {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    @include respond-to(sm) { width: 70%; }
+}

@@ -1,0 +1,30 @@
+
+
+// --------------------------------------------------------------------------
+//   FIGURE
+// --------------------------------------------------------------------------
+
+
+.Figure {
+	margin-bottom: $space * 1.5;
+
+	&:not(:first-child) {
+		margin-top: $space * 1.5;
+	}
+}
+
+.Figure--sm {
+	margin: 0;
+
+	img {
+		width: calc(50% - #{ $space * 0.5 });
+
+		@include respond-to(max-xs) {
+			width: calc(30% - #{ $space * 0.5 });
+		}
+	}
+}
+
+.u-inlineBlock + .u-inlineBlock {
+	margin-left: $space * 0.5;
+}

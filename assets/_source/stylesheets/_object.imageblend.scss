@@ -1,0 +1,23 @@
+
+
+// --------------------------------------------------------------------------
+// COMPONENT: IMAGE BLENDS
+// See: http://codepen.io/Guilh/pen/LEQWev?editors=110
+// See: https://sarasoueidan.com/demos/css-blender/
+// See: http://una.im/CSSgram/
+// --------------------------------------------------------------------------
+
+
+$darkBlendColor: rgba( palette(text), 0.8 );
+$lightBlendColor: rgba( palette(text), 0.25 );
+
+@mixin imageBlend(
+    $blend: multiply,
+    $color: $darkBlendColor
+) {
+    background-blend-mode: $blend;
+    background-color: $color;
+}
+
+.o-imageBlend { @include imageBlend(); }
+.o-imageBlend--just { @include imageBlend($color: $lightBlendColor); }
