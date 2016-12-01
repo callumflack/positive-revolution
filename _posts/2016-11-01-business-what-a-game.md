@@ -1,11 +1,12 @@
 ---
-title: "Business: What a game!"
+title: 'Business: What a game!'
 date: 2016-11-01 00:00:00 Z
-category: kata
-image: "/uploads/business-what-a-game.jpg"
+categories:
+- kata
 tags:
 - marginalia
-extract:
+image: "/uploads/business-what-a-game.jpg"
+extract: 
 ---
 
 Is this true? (Jack Stack certainly thinks so!)

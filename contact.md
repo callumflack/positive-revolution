@@ -1,5 +1,6 @@
 ---
-layout: contact
 title: Get in touch
-permalink: /contact/
+permalink: "/contact/"
+layout: contact
 ---
+
