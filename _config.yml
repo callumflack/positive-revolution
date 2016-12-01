@@ -38,7 +38,6 @@ kramdown:
   syntax_highlighter: rouge
 exclude:
 - assets/_source
-- CNAME
 - Gemfile
 - Gemfile.lock
 - gulpfile.js
