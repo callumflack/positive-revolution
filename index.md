@@ -1,5 +1,5 @@
 ---
-layout: index
+title: Home
 sections:
 - title: 
   handle: video
@@ -82,5 +82,6 @@ sections:
     Greg’s true passion is human behaviour. His dedication to developing sustainable work environments is of the highest importance. He shows a depth of understanding of the various learning styles and how best to address these when working with companies and teams. He goes above and beyond to ensure everyone walks away with the skills to apply in everyday life, not just at work.
 
     Being the current Cairns Director for BNI (Business Network International) and having managed several businesses previously, Greg is well versed in business dynamics, commercial viability and effective leadership. Greg has a wealth of experience in customer service industries, from managing small to medium businesses, where responsibility and effective decision-making are vital, to managing operations where timing and judgement calls require precise calculations to ensure safety and customer enjoyment go hand in hand. Within all these roles, Greg’s leadership and communication expertise were critical.
+layout: index
 ---
 
