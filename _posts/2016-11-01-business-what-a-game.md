@@ -6,7 +6,7 @@ categories:
 tags:
 - marginalia
 image: "/uploads/business-what-a-game.jpg"
-extract:
+extract: 
 ---
 
 Is this true? (Jack Stack certainly thinks so!)

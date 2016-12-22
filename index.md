@@ -1,13 +1,13 @@
 ---
 layout: index
 sections:
-- title:
+- title: 
   handle: video
   wide: xl
   video: qYXD53r3FU8
 - title: The Journey is the Reward
   handle: intro
-  background-color:
+  background-color: 
   copy: 'Positive Revolution is a Queensland based business, specialising in business
     performance coaching and consulting. We target areas of Team Building and Organisational
     Culture to enhance the people connection, ensuring your organisation obtains consistent
@@ -18,8 +18,8 @@ sections:
   cta-alt: Alternatively, contact Greg Smedts by <a href="mailto:greg@positiverevolution.com.au"
     target="_blank">email</a> or call 0457 738 099
 - title: Why is team building <span class="u-lg-lineBreak">& culture important?</span>
-  subtitle: Team performance and culture affects everyone <span class="u-lg-lineBreak">and everything an organisation
-    does.</span>
+  subtitle: Team performance and culture affects everyone <span class="u-lg-lineBreak">and
+    everything an organisation does.</span>
   handle: culture
   copy1: 'Leaders who understand the importance of organisational culture and have
     taken the opportunity to focus energy, time and resources have found major improvements
@@ -83,3 +83,4 @@ sections:
 
     Being the current Cairns Director for BNI (Business Network International) and having managed several businesses previously, Greg is well versed in business dynamics, commercial viability and effective leadership. Greg has a wealth of experience in customer service industries, from managing small to medium businesses, where responsibility and effective decision-making are vital, to managing operations where timing and judgement calls require precise calculations to ensure safety and customer enjoyment go hand in hand. Within all these roles, Greg’s leadership and communication expertise were critical.
 ---
+
