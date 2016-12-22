@@ -1,10 +1,6 @@
 ---
 title: 'Business: What a game!'
 date: 2016-11-01 00:00:00 Z
-categories:
-- kata
-tags:
-- marginalia
 image: "/uploads/business-what-a-game.jpg"
 extract: 
 ---
