@@ -6,8 +6,8 @@
 
 
 .c-footer {
-    margin: -$space 0 $space 0;
-    padding-top: $space * 2.5;
+    margin: 0 0 $space 0;
+    padding-top: $space * 2;
 
     li,
     p,
@@ -15,10 +15,6 @@
         @include TextSans();
         color: $color-grey;
         text-align: center;
-
-        span {
-            font-family: $sans-bold;
-        }
     }
 
     p {

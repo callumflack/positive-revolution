@@ -6,7 +6,7 @@ categories:
 tags:
 - marginalia
 image: "/uploads/business-what-a-game.jpg"
-extract: 
+extract:
 ---
 
 Is this true? (Jack Stack certainly thinks so!)
@@ -27,7 +27,7 @@ OK, so how do you become successful?
 
 The first point in any game is to decide how you will measure success, as success is different for every person. So firstly what is your version of success for now in your profession. I say for now because as you achieve success, your version of success will also change.
 
-Once you know what success is for you, you then need to be brutally honest with yourself and work out where you are currently in comparison to your successful state. Don’t start playing the game until you figure this out in detail!
+Once you know what success is for you, you then need to be brutally honest with yourself and work out where you are currently in comparison to your successful state. **Don’t start playing the game until you figure this out in detail!**
 
 Knowing where you are and where you want to be are the makings for your success. The next rule of the game is doing a gap analysis of what you have in place, what you need to have in place and what is in place that shouldn’t even be there.
 
@@ -43,6 +43,6 @@ You take manufactured materials and use them by shaping, bending and joining for
 
 Are you currently providing the highest quality product with the best customer service? If not, then the question is, what’s missing?
 
-Remember: The GAME never ends! Just when you think you have it all figured out and you’re doing everything right, something will change which will have you going over your processes again. The businesses who don’t continuously develop and change are no longer around. (Take Blockbuster for instance.)
+Remember: **The GAME never ends!** Just when you think you have it all figured out and you’re doing everything right, something will change which will have you going over your processes again. The businesses who don’t continuously develop and change are no longer around. (Take Blockbuster for instance.)
 
 P.S. Ensure you continue on an ongoing cycle of learning and business development to stay on the crest of the success wave.

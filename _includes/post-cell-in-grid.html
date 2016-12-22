@@ -1,0 +1,22 @@
+<div class="Grid-cell u-sm-size6of12">
+
+    <a class="c-postCell c-postCell--rev" href="{{ post.url }}">
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--16by9"></div>
+            <div class="FlexEmbed-content o-coverImage o-imageBlend"
+                style="background-image: url('{{ post.image }}')">
+                <div class="o-aligner">
+                    <div class="o-aligner-item">
+                        <div class="c-post-hgroup">
+                            <h1 class="u-marginBD6">{{ post.title }}</h1>
+                            <p class="u-textCenter u-marginBD3">Published {{ post.date | date: "%B %d, %Y" }}</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </a>
+
+</div>

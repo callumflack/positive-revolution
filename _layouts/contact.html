@@ -5,19 +5,17 @@ layout: default
 <div class="o-container{% if section.wide %} o-container--{{ section.wide }}{% endif %}">
 
     <div class="Grid Grid--withGutter">
-        <div class="Grid-cell Grid-cell--center u-xs-size8of12">
-            <figure class="Figure u-marginTD3 u-marginBD2">
+        <div class="Grid-cell Grid-cell--center u-size8of12">
+            <figure class="Figure u-marginTD3 u-marginB">
                 <img src="{{ site.assetsurl }}greg-smedts.jpg" alt="Positive Revolution is Greg Smedts">
             </figure>
         </div>
-        <div class="Grid-cell Grid-cell--center u-xs-size6of12">
-            <h1 class="u-marginB0">{{ page.title }}</h1>
-            <p class="u-textSans u-textLeft u-marginB u-xs-marginBD2">
-                <span class="u-textSansB">Contact Greg</span><br>
-                Call <a href="tel:{{ site.phone }}">{{ site.phone }}</a><br>Email <a href="mailto=greg@positiverevolution.com.au" target="_blank">{{ site.email }}</a><br>
-                Connect on <a href="{{ site.social[0] }}">LinkedIn</a>
+        <div class="Grid-cell Grid-cell--center u-size10of12 u-md-size5of12">
+            <h1 class="u-xs-marginT u-sm-marginB0">{{ page.title }}</h1>
+            <p class="u-textSans u-textLeft u-marginB0 u-marginTD2">
+                {% include contact-block.html %}
             </p>
-        </div>
 
+        </div>
     </div>
 </div>

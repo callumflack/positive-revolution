@@ -23,11 +23,35 @@
         <div class="Post-content u-marginTX2">
             {{ post.content }}
         </div>
-        <div class="Post-meta">
+        <!-- <div class="Post-meta">
             <date>{{ post.date | date: "%B %d" }}, {{ post.date | date: "%Y" }}</date>
             <span>•</span>
             Filed under:
             {% include tags.html %}
+        </div> -->
+    </div>
+
+    <div class="c-post-next">
+        <!-- <div class="o-container o-container--lg u-marginTX4"> -->
+        <div class="o-container u-marginTX3">
+            <h3 class="u-marginB">Read another or <a href="/blog">view all</a></h3>
+            <div class="Grid Grid--withGutter">
+
+                {% assign nextPost = site.posts | sort: 'date' %}
+                {% for post in nextPost limit: 2 %}
+                    {% comment %}
+                        Skip anything in the array that matches your argument, but keep looping over the rest of the values
+                        See: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+                        And: https://help.shopify.com/themes/liquid/tags/iteration-tags
+                    {% endcomment %}
+                    {% if post.url contains page.url %}
+                        {% continue %}
+                    {% endif %}
+                    {% comment %}If it's not hidden, print it{% endcomment %}
+                    {% include post-cell-in-grid.html %}
+                {% endfor %}
+
+            </div>
         </div>
     </div>
 

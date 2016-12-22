@@ -82,7 +82,7 @@
 	@include remFallback($sizeHeader);
 	color: $color-text;
 	font-family: $font-display;
-	letter-spacing: 0.01em;
+	letter-spacing: -0.01em;
 	line-height: 1.25;
 	margin-bottom: $space * 1.25;
 	text-align: center;
@@ -116,16 +116,20 @@
 
 @mixin HeadlineSm() {
 	@include TypeReset();
-	@include remFallback($base-font-size-unit - 4);
+	@include remFallback($base-font-size-unit - 5);
 	color: $color-text;
-	font-family: $sans-bold;
+	font-family: $sans-black;
 	letter-spacing: 0.02em;
 	line-height: 1;
 	margin-bottom: $space * 1.5;
 	text-transform: uppercase;
 
+    a {
+		@include u-link($linkRuleGrey);
+	}
+
 	@include respond-to(sm) {
-		@include remFallback($base-font-size-unit - 1);
+		@include remFallback($base-font-size-unit - 3);
 	}
 }
 

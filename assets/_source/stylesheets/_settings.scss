@@ -26,9 +26,9 @@ $color-bg-neutral      : #ededea;
 // Base sizes
 // --------------------------------------------------------------------------
 
-$base-font-size-unit   : 20;
+$base-font-size-unit   : 21;
 $base-font-size        : $base-font-size-unit * 1px;
-$base-line-height-unit : 1.45;
+$base-line-height-unit : 1.5;
 $base-line-height      : ($base-font-size-unit * $base-line-height-unit) * 1px;
 
 
@@ -41,7 +41,7 @@ $sizeText      : $base-font-size-unit;
 $sizeTextLg    : $base-font-size-unit + 3;
 $sizeHeaderXs  : $base-font-size-unit + 3;
 $sizeHeaderSm  : $base-font-size-unit + 6;
-$sizeHeader    : $base-font-size-unit + 16; // 36
+$sizeHeader    : $base-font-size-unit + 18; // 36
 
 $r-sizeCaption   : rem($sizeCaption);
 $r-sizeQuote     : rem($sizeQuote);
