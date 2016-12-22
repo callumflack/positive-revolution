@@ -10,6 +10,7 @@
 		".Button.Button--rev",
 		".Footer-contact .Button",
 		".Post--glow",
-        ".c-header cite"
+        ".c-header cite",
+		"u-md-size5of12"
 	]
 }
