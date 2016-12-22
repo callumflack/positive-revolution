@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-- title: 
+- title: Video
   handle: video
   wide: xl
   video: qYXD53r3FU8
