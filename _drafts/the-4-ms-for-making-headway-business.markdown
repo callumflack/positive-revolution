@@ -1,6 +1,7 @@
 ---
 title: The 4 M’s for making headway business.
 date: 2016-12-09 10:20:00 Z
+Image: "/uploads/NLP%202.jpg"
 ---
 
 These are not new and they have been around for some time now.  Rehashing these at times is good for every business owner from macro business to medium business owners, even perhaps big business as well.  After having a conversation with a business associate recently it became aware that some business professionals are still unaware of these points.  This prompted me to again hit the refresh button on them.
