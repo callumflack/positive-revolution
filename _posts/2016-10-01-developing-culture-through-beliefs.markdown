@@ -2,6 +2,7 @@
 title: Developing Culture through beliefs.
 date: 2016-10-01 12:00:00 Z
 Image: "/uploads/Culture.jpg"
+extract: 
 ---
 
 In the last blog post we discussed vision, mission and values to ensure you began designing the kind of culture you want to have in your organisation. Every step of this process is as important as the last. We will be required to ensure we have ongoing development in all areas, because things do change on a continuous basis. The only thing you can be certain about in this world is that it will constantly change. Just when you think you have it figured out, it will change again.
