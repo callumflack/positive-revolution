@@ -4,7 +4,9 @@ date: 2016-12-09 10:20:00 Z
 ---
 
 These are not new and they have been around for some time now.  Rehashing these at times is good for every business owner from macro business to medium business owners, even perhaps big business as well.  After having a conversation with a business associate recently it became aware that some business professionals are still unaware of these points.  This prompted me to again hit the refresh button on them.
+
 In order these are Mindset, Motivation, Match, and Media/Market.
+
 **Mindset** – When working with clients I often find myself asking about their mindset for business.  I ask them if they see their business in their mind in 10 years’ time.  If this is not something you can visualise then I am concerned they don’t have the determination and persistence to make the sacrifices needed to ensure the longevity of the business.  I begin by getting the business professionals to ensure they are in the right industry and when I say this, I mean do they have the passion for what they are doing or is it a means to get money to fund a lifestyle they believe they want.  If the first is not the case, then I recommend they find something more aligned with their passion.
 
 **Motivation** – Ask yourself if you’re in business, are you motivated every day to want to get up and do what you do.  I know that not everyone every day is bursting out of their skin to bounce out of bed and begin the grey matter swirling with possibilities of what they can do next to provide even more value to their customers and clients.  We all have our ups and downs and anyone who tells you different is a liar.  You want to wake up every day with a though of how can I be of better service today.  Be it by changing a way you serve your customers or a change in product which will provide even more benefit to your clients.
