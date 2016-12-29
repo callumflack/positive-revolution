@@ -3,6 +3,8 @@ title: The 4 M’s for making headway business.
 date: 2016-12-09 10:20:00 Z
 ---
 
+![NLP 2.jpg](/uploads/NLP%202.jpg)
+
 These are not new and they have been around for some time now.  Rehashing these at times is good for every business owner from macro business to medium business owners, even perhaps big business as well.  After having a conversation with a business associate recently it became aware that some business professionals are still unaware of these points.  This prompted me to again hit the refresh button on them.
 
 In order these are Mindset, Motivation, Match, and Media/Market.
@@ -15,7 +17,7 @@ In order these are Mindset, Motivation, Match, and Media/Market.
 
 **Media/Market** – Now you are determined you are in the right business and are dedicated to being in it for the long run.  You wake up majority of the time excited by the possibility of being able to better serve the people who are your clients and are working out how to do it even better.  You know what your match is and you are focused on targeting them because they are looking for the solution you provide.  Finally, how are you going to reach them?  Is it through the TV, Radio, newspaper, online blogging, viral videos or even holding demonstrations or speaking engagements.  Remember though which ever method you choose make sure you test and measure.  This way, in time you will find out what is working and what is not working for you.  When you know, what is working for you, focus your energy and resources there.
 
-Now you know the 4 M’s of business if you didn’t know them before or have just had a refresher.  Action is the key to any type of success so plan, execute and reap the rewards, though always remember you will have ups and you will have downs.  
-Stay strong in the downs and don’t let the ups go to your head! 
+Now you know the 4 M’s of business if you didn’t know them before or have just had a refresher.  Action is the key to any type of success so plan, execute and reap the rewards, though always remember you will have ups and you will have downs.\
+Stay strong in the downs and don’t let the ups go to your head!
 
-Forever humbled G.  
+Forever humbled G.
