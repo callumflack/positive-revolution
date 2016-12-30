@@ -1,6 +1,6 @@
 ---
 title: Leadership style by design
-date: 2016-12-30 03:28:00 Z
+date: 2016-12-30 15:28:00 Z
 image: "/uploads/Leadership.png"
 extract: 
 ---
