@@ -5,7 +5,7 @@ sections:
   handle: video
   wide: xl
   video: qYXD53r3FU8
-- title: Business Performance Solutions Made Easy
+- title: 'Tailored Business Performance Solutions '
   handle: intro
   background-color: 
   copy: 'Positive Revolution is a Queensland based business, specialising in business
@@ -27,33 +27,26 @@ sections:
     and retention, just to mention a few.
 
 '
-  copy2: |
-    ## So what is culture?
-
-    Culture is the personality of an organisation. This is displayed through the values, beliefs and standards to which a company works. To really understand the culture of an organisation, look directly at the people who work within it.
-
-    As the personality guides what a person does, so the culture of an organisation is guided by what their people do. This could be their attitudes, level of service to others, drivers and motivations, problem solving abilities, and their capacity to think outside the square and innovate.
-
-    The culture of an organisation will determine the level of active engagement of the employees within the organisation. All culture is driven by the leaders. Bad culture is usually indicated by high absenteeism, low morale and limited productivity.
-
-    Creating and maintaining the desired culture can be hard to do, though with the assistance of trained professionals, persistent effort and commitment to the team, leaders can make any workplace an enjoyable experience for all.
-
-    So what kind of a culture does your organisation want?
-
-    ## What we offer
-
-    Positive Revolution offers a range of varied programs and opportunities from:
-
-    * Leadership and executive coaching
-    * Team building days (indoor and out, half or full days)
-    * Leadership and communication trainings
-    * Strategic planning meetings
-    * Innovation planning days
-    * Succession planning programs
-    * Professional development programs for leaders
-    * Gap analysis and productivity planning
-    * Change management processes
-    * And more…
+  copy2: "## So what is culture?\n\nCulture is the personality of an organisation.
+    This is displayed through the values, beliefs and standards to which a company
+    works. To really understand the culture of an organisation, look directly at the
+    people who work within it.\n\nAs the personality guides what a person does, so
+    the culture of an organisation is guided by what their people do. This could be
+    their attitudes, level of service to others, drivers and motivations, problem
+    solving abilities, and their capacity to think outside the square and innovate.\n\nThe
+    culture of an organisation will determine the level of active engagement of the
+    employees within the organisation. All culture is driven by the leaders. \n\nBad
+    culture is usually indicated by high absenteeism, low morale and limited productivity.\n\nCreating
+    and maintaining the desired culture can be hard to do, though with the assistance
+    of trained professionals, persistent effort and commitment to the team, leaders
+    can make any workplace an enjoyable experience for all.\n\nSo what kind of a culture
+    does your organisation want?\n\n## What we offer\n\nPositive Revolution offers
+    a range of varied programs and opportunities from:\n\n* Leadership and executive
+    coaching\n* Team building days (indoor and out, half or full days)\n* Leadership
+    and communication trainnings\n* Strategic planning meetings\n* Innovation planning
+    days\n* Succession planning programs\n* Professional development programs for
+    leaders\n* Gap analysis and productivity planning\n* Change management processes\n*
+    And more…\n"
   cta: Want to know more? Let's talk
 - title: What people say about us
   handle: testimonials
