@@ -1,6 +1,6 @@
 ---
 title: Do you lack employee engagement?
-date: 2016-12-29 23:17:00 Z
+date: 2016-09-01 12:00:00 Z
 image: "/uploads/Lack.png"
 extract: 
 ---
