@@ -1,5 +1,5 @@
 ---
-title: Master your ability communication for effective results!
+title: Master your ability to communicate for effective results!
 date: 2016-12-30 10:34:00 Z
 image: "/uploads/Listening.jpg"
 extract: 
