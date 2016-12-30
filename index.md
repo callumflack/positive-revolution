@@ -5,13 +5,13 @@ sections:
   handle: video
   wide: xl
   video: qYXD53r3FU8
-- title: The Journey is the Reward
+- title: Business Performance Solutions Made Easy
   handle: intro
   background-color: 
   copy: 'Positive Revolution is a Queensland based business, specialising in business
-    performance coaching and consulting. We target areas of Team Building and Organisational
-    Culture to enhance the people connection, ensuring your organisation obtains consistent
-    productive results year after year!
+    performance coaching and consulting. We target areas of Leadership, Communication,
+    Team Building and Organisational Culture to enhance the people connection, ensuring
+    your organisation obtains consistent productive results year after year!
 
 '
   cta: Book a free meeting
@@ -77,11 +77,11 @@ sections:
   subtitle: Business Performance Specialist
   handle: about
   copy: |
-    Greg is a dynamic performance specialist with a flair for making the process of team building and culture development fun and engaging. Involved in training for the past 8 years and people development for the past 11 years, his areas of specialty are team building, leadership development, business management and communication. Greg advises a broad range of clients, from small, sole trader businesses to executive level development within multi-million dollar companies.
+    Greg is a dynamic performance specialist with a flair for making the process of leadership, communication, team building and culture development fun and engaging. Involved in training for the past 9 years and people development for the past 11 years, his areas of specialty are team building, leadership development, business management and communication. Greg advises a broad range of clients, from small, sole trader businesses to executive level development within multi-million dollar companies.
 
     Greg’s true passion is human behaviour. His dedication to developing sustainable work environments is of the highest importance. He shows a depth of understanding of the various learning styles and how best to address these when working with companies and teams. He goes above and beyond to ensure everyone walks away with the skills to apply in everyday life, not just at work.
 
-    Being the current Cairns Director for BNI (Business Network International) and having managed several businesses previously, Greg is well versed in business dynamics, commercial viability and effective leadership. Greg has a wealth of experience in customer service industries, from managing small to medium businesses, where responsibility and effective decision-making are vital, to managing operations where timing and judgement calls require precise calculations to ensure safety and customer enjoyment go hand in hand. Within all these roles, Greg’s leadership and communication expertise were critical.
+    Being the Cairns Director for BNI (Business Network International) for the past 2 years and having managed several businesses previously, Greg is well versed in business dynamics, commercial viability and effective leadership. Greg has a wealth of experience in customer service industries, from managing small to medium businesses, where responsibility and effective decision-making are vital, to managing operations where timing and judgement calls require precise calculations to ensure safety and customer enjoyment go hand in hand. Within all these roles, Greg’s leadership and communication expertise were critical.
 layout: index
 ---
 
