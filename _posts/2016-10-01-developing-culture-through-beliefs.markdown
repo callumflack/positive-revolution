@@ -1,7 +1,7 @@
 ---
 title: Developing Culture through beliefs.
 date: 2016-10-01 12:00:00 Z
-image: "/uploads/Culture.jpg"
+image: "/uploads/Culture%20mot.png"
 extract: 
 ---
 
