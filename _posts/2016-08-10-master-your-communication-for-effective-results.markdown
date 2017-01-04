@@ -1,6 +1,6 @@
 ---
 title: Master your ability to communicate for effective results!
-date: 2016-12-30 10:34:00 Z
+date: 2016-08-10 10:34:00 Z
 image: "/uploads/Listening.jpg"
 extract: 
 ---
