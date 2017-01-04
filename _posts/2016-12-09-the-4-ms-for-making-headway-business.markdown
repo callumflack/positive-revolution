@@ -1,7 +1,7 @@
 ---
 title: The 4 M’s for making headway business.
 date: 2016-12-09 10:20:00 Z
-image: "/uploads/NLP%202.jpg"
+image: "/uploads/Getting%20your%20head%20in%20the%20game!.png"
 extract: 
 ---
 
