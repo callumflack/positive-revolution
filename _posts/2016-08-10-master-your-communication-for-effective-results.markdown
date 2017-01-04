@@ -1,7 +1,7 @@
 ---
 title: Master your ability to communicate for effective results!
 date: 2016-08-10 10:34:00 Z
-image: "/uploads/Listening.jpg"
+image: "/uploads/Are%20you%20using%20your%20ears%20in%20proportion-.png"
 extract: 
 ---
 
