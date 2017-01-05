@@ -1,6 +1,6 @@
 ---
 title: How to be a better communicator!
-date: 2017-01-04 23:21:00 Z
+date: 2017-01-04 11:00:00 Z
 categories:
 - Communication
 tags:
