@@ -3,15 +3,15 @@ title: How to be a better communicator!
 date: 2017-01-04 23:21:00 Z
 ---
 
-I know that at times I may not communicate my messages for others in the best fashion and therefore I end up having conversations where, what is intended, is not the message that comes out.  Sometimes I find that language for a form of communication is very limiting.  So today I wanted to share three outstanding tips on how you can improve your communication skills.
+I know that at times I may not communicate my messages for others in the best way and therefore I end up having conversations where, what is intended, is not the message that comes out.  Sometimes I find that language for a form of communication is very limiting.  So today I wanted to share three outstanding tips on how you can improve your communication skills.
 
 **Tip 1.**
 
-Practise your listening skills.  I encourage you to enhance your listening skills by doing one simple thing.  Get curious about the person with whom you are speaking.  Because you will find that what they are talking about is important to them and when you ask questions about their experience they will find you far more interesting than they would if you attempted to talk over them and assume you know what they mean.
+**Practice your listening skills.**  I encourage you to enhance your listening skills by doing one simple thing.  Get curious about the person with whom you are speaking.  You will find, what they are talking about is important to them and when you ask questions about their experience they will find you far more interesting than they would if you attempted to talk over them and assume you know what they mean.
 
 **Tip 2.**
 
-Choose your language carefully.  Studies have shown that language only accounts for roughly 7% of your communication.  Can you believe that! Only 7%.  So ensure when you are talking with someone you say what you mean and mean what you say, because language creates your experience.  If you walk around saying you are having a bad day, how do you expect it to get any better when you continuously focus on how bad it is.  Remember language creates your experience.
+**Choose your language carefully.**  Studies have shown that language only accounts for roughly 7% of your communication.  Can you believe that! Only 7%.  So ensure when you are talking with someone you say what you mean and mean what you say. Language is the only way in which you can get precise . If you talk ambiguous and expect great results, then be prepared to be disappointed.
 
 **Tip 3.**
 
