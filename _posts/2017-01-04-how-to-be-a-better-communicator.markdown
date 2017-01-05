@@ -17,6 +17,6 @@ I know that at times I may not communicate my messages for others in the best wa
 
 Ask questions.  When communicating with someone and you are not sure you have the information correct, ask questions to ensure you have understood the message they are communicating.  The power in life is in the questions you ask!  There are no stupid questions, only stupid people who don't ask questions.
 
-Remember communication is not about the message you send it is about the response you get.  If you didn’t get the desired response, ask if they have understood the message you were sending.  In business this simple step stops a lot of headaches down the track.
+Remember communication is not about the message that is being sent, it is about the response gotten.  If the message doesn't get the desired response, then the message was not understood.  The simple step of recognising if the message was received correctly will stop a lot of headaches down the track.
 
 To keep up to date with the latest information on communication and leadership development ensure you check out our website and download a copy of our free eBook.  Until next time, remember implement what you learn.
