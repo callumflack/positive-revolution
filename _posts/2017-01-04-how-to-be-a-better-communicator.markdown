@@ -13,7 +13,7 @@ I know at times I may not communicate my messages to others in the best way and 
 
 **Tip 2.**
 
-**Choose your language carefully.**  Studies have shown that language only accounts for roughly 7% of your communication.  Can you believe that! Only 7%.  So ensure when you are talking with someone you say what you mean and mean what you say. Language is the only way in which you can get precise . If you talk ambiguous and expect great results, then be prepared to be disappointed.
+**Choose your language carefully.**  Studies have shown that language only accounts for roughly 7% of your communication.  Can you believe that! Only 7%.  So ensure when you are talking with someone, say what you mean and mean what you say. Language is the only way in which you can get precise . If you talk ambiguous and expect great results, then be prepared to be disappointed.
 
 **Tip 3.**
 
