@@ -1,13 +1,15 @@
 ---
 title: How to be a better communicator!
 date: 2017-01-04 23:21:00 Z
+image: "/uploads/CommunicationMatters.png"
+extract: 
 ---
 
 I know at times I may not communicate my messages to others in the best way and therefore I end up having conversations where, what is intended, is not the message that comes out.  At times I find that language for a form of communication is very limiting. What is in my head cannot be adequately explained in words.  Therefore today I wanted to share three outstanding tips on how you are able to improve your communication skills.
 
 **Tip 1.**
 
-**Practice your listening skills.**  I encourage you to enhance your listening skills by doing one simple thing.  Get curious about the person with whom you are speaking.  You will find, what they are talking about is important to them and when you ask questions about their experience they will find you far more interesting than they would if you attempted to talk over them and assume you know what they mean.
+**Practice your listening skills.**  I encourage you to enhance your listening skills by doing one simple thing.  Get curious about the person with whom you are speaking.  You will find is, what they are talking about is important to them and when you ask questions about their experience they will find you far more interesting than they would if you attempted to talk over them and assume you know what they mean.
 
 **Tip 2.**
 
