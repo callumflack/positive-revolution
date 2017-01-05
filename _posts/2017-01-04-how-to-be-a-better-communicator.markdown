@@ -1,6 +1,10 @@
 ---
 title: How to be a better communicator!
 date: 2017-01-04 23:21:00 Z
+categories:
+- Communication
+tags:
+- Communicating
 image: "/uploads/CommunicationMatters.png"
 extract: 
 ---
@@ -17,8 +21,8 @@ I know at times I may not communicate my messages to others in the best way and 
 
 **Tip 3.**
 
-**Ask questions.**  When communicating with someone and you are not sure you have the information correct, ask questions to ensure you have understood the message they are communicating.  The power in life is in the questions you ask!  There are no stupid questions, only stupid people who don't ask questions.
+**Ask questions.**  When communicating with someone and you are not sure you have the information correct, ask questions to ensure you have understood the message the way they intended to communicate.  The power in life is in the questions you ask!  There are no stupid questions, only stupid people who don't ask questions.
 
-Remember communication is not about the message that is being sent, it is about the response gotten.  If the message doesn't get the desired response, then the message was not understood.  The simple step of recognising if the message was received correctly will stop a lot of headaches down the track.
+Remember communication is not about the message that is being sent, it is about the response received. If the message doesn't get the desired response, then the message was not understood.  The simple step of recognising if the message was received correctly will stop a lot of headaches down the track.
 
 To keep up to date with the latest information on communication and leadership development ensure you check out our website and download a copy of our free eBook.  Until next time, remember implement what you learn.
