@@ -3,7 +3,7 @@ title: How to be a better communicator!
 date: 2017-01-04 23:21:00 Z
 ---
 
-I know at times I may not communicate my messages to others in the best way and therefore I end up having conversations where, what is intended, is not the message that comes out.  Sometimes I find that language for a form of communication is very limiting. Therefore today I wanted to share three outstanding tips on how you are able to improve your communication skills.
+I know at times I may not communicate my messages to others in the best way and therefore I end up having conversations where, what is intended, is not the message that comes out.  At times I find that language for a form of communication is very limiting. What is in my head cannot be adequately explained in words.  Therefore today I wanted to share three outstanding tips on how you are able to improve your communication skills.
 
 **Tip 1.**
 
