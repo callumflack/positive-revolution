@@ -3,7 +3,7 @@ title: How to be a better communicator!
 date: 2017-01-04 23:21:00 Z
 ---
 
-I know that at times I may not communicate my messages for others in the best way and therefore I end up having conversations where, what is intended, is not the message that comes out.  Sometimes I find that language for a form of communication is very limiting.  So today I wanted to share three outstanding tips on how you can improve your communication skills.
+I know at times I may not communicate my messages to others in the best way and therefore I end up having conversations where, what is intended, is not the message that comes out.  Sometimes I find that language for a form of communication is very limiting.  So today I wanted to share three outstanding tips on how you can improve your communication skills.
 
 **Tip 1.**
 
@@ -15,7 +15,7 @@ I know that at times I may not communicate my messages for others in the best wa
 
 **Tip 3.**
 
-Ask questions.  When communicating with someone and you are not sure you have the information correct, ask questions to ensure you have understood the message they are communicating.  The power in life is in the questions you ask!  There are no stupid questions, only stupid people who don't ask questions.
+**Ask questions.**  When communicating with someone and you are not sure you have the information correct, ask questions to ensure you have understood the message they are communicating.  The power in life is in the questions you ask!  There are no stupid questions, only stupid people who don't ask questions.
 
 Remember communication is not about the message that is being sent, it is about the response gotten.  If the message doesn't get the desired response, then the message was not understood.  The simple step of recognising if the message was received correctly will stop a lot of headaches down the track.
 
