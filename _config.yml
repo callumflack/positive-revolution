@@ -15,13 +15,14 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: article
+    image:
 description: 'Positive Revolution provides outsourced company culture development.
   We work with companies and organisations to provide the people balance ensuring
   they are happy, healthy and love working for the organisations they are with. Located
   in Cairns, Queensland, we travel throughout Australia.
 
 '
-baseurl: 
+baseurl:
 url: http://www.positiverevolution.com.au
 assetsurl: "/assets/images/"
 phone: 0457 738 099
