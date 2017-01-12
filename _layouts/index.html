@@ -23,7 +23,7 @@ layout: default
                 {% when 'intro' %}
                     <h1 class="Header-tagline">{{ section.title }}</h1>
                     {{ section.copy | markdownify }}
-                    {% include typeform-button.html %}
+                    {% include cta-button.html %}
                     <p class="u-textSans u-size8of12 u-sm-size5of12 Grid-cell--center">{{ section.cta-alt }}</p>
                     <div class="HzLine"></div>
 
@@ -38,7 +38,7 @@ layout: default
                         <img src="{{ site.assetsurl }}icon-culture.jpg" alt="Company culture is important" style="width:240px">
                     </figure>
                     {{ section.copy2 | markdownify }}
-                    {% include typeform-button.html %}
+                    {% include cta-button.html %}
                     <div class="HzLine"></div>
 
                 {% when 'testimonials' %}
@@ -103,7 +103,7 @@ layout: default
                                 {% include contact-block.html %}
                             </p>
                             <p>
-                                <a class="Button Button--sm u-marginBD2" href="mailgreg@positiverevolution.com.au" target="_blank">Book a speaking engagement</a>
+                                <a class="Button Button--sm u-marginBD2" href="mailto:{{ site.email }}" target="_blank">Book a speaking engagement</a>
                             </p>
                             <figure class="Figure Figure--sm u-sm-size7of12 u-marginNTD3 u-textCenter">
                                 <img src="{{ site.assetsurl }}badge-ABNLP.jpg" alt="Certified member of the Australian Board of Neuro-Linguistic Programming" class="u-inlineBlock">
