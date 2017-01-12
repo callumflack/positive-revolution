@@ -7,7 +7,7 @@ sections:
   video: qYXD53r3FU8
 - title: 'Tailored Business Performance Solutions '
   handle: intro
-  background-color:
+  background-color: 
   copy: 'Positive Revolution is a Queensland based business, specialising in business
     performance coaching and consulting. We target areas of Leadership, Communication,
     Team Building and Organisational Culture to enhance the people connection, ensuring
@@ -76,3 +76,4 @@ sections:
     Being the Cairns Director for BNI (Business Network International) for the past 2 years and having managed several businesses previously, Greg is well versed in business dynamics, commercial viability and effective leadership. Greg has a wealth of experience in customer service industries, from managing small to medium businesses, where responsibility and effective decision-making are vital, to managing operations where timing and judgement calls require precise calculations to ensure safety and customer enjoyment go hand in hand. Within all these roles, Greg’s leadership and communication expertise were critical.
 layout: index
 ---
+
