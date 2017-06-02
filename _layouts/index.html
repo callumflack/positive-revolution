@@ -10,6 +10,7 @@ layout: default
                 {% when 'video' %}
                     <div class="FlexEmbed">
                         <div class="FlexEmbed-ratio FlexEmbed-ratio--16by9"></div>
+                        {% comment %}
                         <iframe
                             {% if jekyll.environment == "production" %}
                                 src="https://www.youtube.com/embed/{{ section.video }}"
@@ -18,6 +19,8 @@ layout: default
                             allowfullscreen="allowfullscreen"
                             class="FlexEmbed-content">
                         </iframe>
+                        {% endcomment %}
+                        <div class="FlexEmbed-content o-coverImage" style="background-image: url('/uploads/greg-smedts.jpg')"></div>
                     </div>
 
                 {% when 'intro' %}
