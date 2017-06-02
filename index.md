@@ -14,7 +14,7 @@ sections:
     your organisation obtains consistent productive results year after year!
 
 '
-  cta: Book a free meeting
+  cta: Book an application meeting
   cta-alt: Or call Greg Smedts on 0457 738 099
 - title: Why is team building <span class="u-lg-lineBreak">& culture important?</span>
   subtitle: Team performance and culture affects everyone <span class="u-lg-lineBreak">and
@@ -40,25 +40,23 @@ sections:
     of trained professionals, persistent effort and commitment to the team, leaders
     can make any workplace an enjoyable experience for all.\n\nSo what kind of a culture
     does your organisation want?\n\n## What we offer\n\nPositive Revolution offers
-    a range of varied programs and opportunities from:\n\n* Leadership and executive
-    coaching\n* Team building days (indoor and out, half or full days)\n* Leadership
-    and communication trainnings\n* Strategic planning meetings\n* Innovation planning
-    days\n* Succession planning programs\n* Professional development programs for
-    leaders\n* Gap analysis and productivity planning\n* Change management processes\n*
-    And more…\n"
-  cta: Want to know more? Let's talk
-- title: What people say about us
+    a range of varied programs and opportunities by application only:\n\n* Leadership
+    and executive coaching\n* Leadership and communication trainings\n* Strategic
+    planning meetings\n* Innovation planning days\n* Succession planning programs\n*
+    Professional development programs for leaders\n* Gap analysis and productivity
+    planning\n* Change management processes\n* Team building days (indoor and out,
+    half or full days)(Limited availability)"
+  cta: Want to apply? Let's talk
+- title: What our satisfied clients say about us
   handle: testimonials
   video: yf1QNHgf2iE
-  copy: 'If awesomeness was firepower, Greg Smedts would be the Guns of Navarone.
-    Working with Positive Revolution helped us to define our vision, set our direction
-    and head directly toward our goals. We''re way ahead of where we would be without
-    that help. Greg''s sincere involvement in the improvement of our company made
-    a big difference to the way we work and helped us make lasting changes for the
-    better.
+  copy: |-
+    “I recently had the pleasure of utilising the professional services of Greg Smedts from Positive Revolution.  I decided to put my experience into words to assist other potential clients considering engaging Greg.
 
-'
-  author: "— <b>Stewart Flecknoe Brown</b> Administrator, Reds Global"
+    Greg has some of the most important assets of a coach and trainer in that he LISTENS - LEARNS - INFORMS - FOLLOWS UP.  Greg does not pretend to know it all and stick to a rigid text.  He has the ability to gather the information and in most cases the answers from the client themselves.  Greg then relays back to the client simple but forthright strategies that are more than achievable.
+
+    Over the many years I have been in business I have meet them all, “Business”/ “Life” coaches, some have been very good in what they offer but unfortunately most of them were a waste of time.  Greg falls into the very good in my humble opinion and in this regard I would highly recommend his services to anyone considering a positive outcome.  I will be engaging Greg again in the near future for further assistance relating to other business matters.”
+  author: "— <b>Warren Mathieson</b> General Manager, Environmental Asset Services"
   cta-link: https://au.linkedin.com/in/leadershiptrainerdeveloper
   cta: See what our customers say about us on Linkedin
 - title: Leadership thoughts
